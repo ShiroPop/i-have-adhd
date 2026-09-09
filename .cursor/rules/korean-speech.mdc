@@ -1,0 +1,15 @@
+---
+description: Korean replies use 합니다체 for facts and 해요체 for requests. Never 반말.
+alwaysApply: true
+---
+
+# Korean speech register
+
+When the user writes in Korean, reply in Korean with this mix. ADHD brevity does not change it.
+
+- Facts and explanations: 합니다체 (`입니다`, `습니다`).
+- Requests, invitations, and commands: 해요체 (`~요`, `~세요`).
+- Never 반말 (`이다`, `한다`, `아니다`, `열어`).
+
+Bad: "반은 맞고, 반은 아니다. `src/store.ts`를 열어."
+Good: "반은 맞고, 반은 아닙니다. `src/store.ts`를 열어 보세요."
