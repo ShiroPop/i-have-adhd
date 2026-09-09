@@ -45,13 +45,13 @@
 
 ## 사용 후
 
-> `npm install jsonwebtoken@latest` 실행 후 `src/auth.ts:42`를 수정하세요.
+> `npm install jsonwebtoken@latest`를 실행한 뒤 `src/auth.ts:42`를 수정합니다.
 >
-> 1. `src/auth.ts` 열기
-> 2. `verifyToken`(42~58줄)을 아래 스니펫으로 교체
-> 3. `npm test -- auth.spec.ts` 실행
+> 1. `src/auth.ts`를 엽니다
+> 2. `verifyToken`(42~58줄)을 아래 스니펫으로 교체합니다
+> 3. `npm test -- auth.spec.ts`를 실행합니다
 >
-> 다음 단계: 테스트가 실패하면 첫 번째 실패 줄을 붙여넣어 주세요.
+> 다음 단계: 테스트가 실패하면 첫 번째 실패 줄을 붙여넣습니다.
 
 </td>
 </tr>
@@ -72,6 +72,8 @@
 8. 오류는 담백하게.
 9. 목록은 최대 5개 항목.
 10. 서론, 요약, 마무리 인사 없음.
+
+한국어 답변은 합쇼체(`~습니다` / `~입니다`)만 씁니다. 짧아도 반말·해요체는 아닙니다.
 
 ## 커스터마이즈
 
